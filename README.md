@@ -20,6 +20,7 @@ Connect any of them to an MCP client through Apify's MCP server (`https://mcp.ap
 
 | Actor | What it does | Price (FREE tier, per live listing) |
 |---|---|---|
+| [HTTP URL Probe](https://apify.com/skilled_glee/http-url-probe) | Probe public http(s) URLs for status code, redirects, timing, and reachability as structured JSON. Deterministic plain HTTP fetch, no AI, no browser. One failed URL never kills the batch. No start fee. | `url-probed` $0.0004 |
 | [Website Content Extractor](https://apify.com/skilled_glee/website-content-extractor) | Web page URLs in, clean readable content out. Strips navigation, ads, and boilerplate. Returns title, description, clean text, word count, language. Deterministic, no AI, no browser. | `page-extracted` $0.002646 |
 | [Smart Article Extractor](https://apify.com/skilled_glee/article-text-extractor) | Article URLs in, structured article data out. Title, author, published date, clean text, word count, content hash. Handles JSON-LD, bylines, missing dates. Deterministic, no AI, no browser. | `article-extracted` $0.001 |
 | [Web Metadata Extractor — Open Graph, JSON-LD as JSON](https://apify.com/skilled_glee/web-metadata-extractor) | Extract machine-useful metadata from web pages as JSON: title, description, Open Graph, Twitter Card, JSON-LD structured data, canonical URL, language, H1 headings. Plain HTTP fetch, no AI, no browser. One failed page never kills the batch. | `page-processed` $0.001 |
